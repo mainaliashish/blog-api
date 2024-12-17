@@ -54,6 +54,6 @@
     > **Email**: ram@gmail.com  
     > **Password**: password123
 
-### ER Diagram for simple_blog database
+## ER Diagram for simple_blog database
 
-![ER Diagram for Portfolio App](er-diagram.png)
+![ER Diagram for Simple Blog App](er-diagram.png)
