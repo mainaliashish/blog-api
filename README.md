@@ -8,6 +8,9 @@
 
 -   **Please Make sure that MySQL is running.**
 
+-   It's not a good practice to push env files in git for security reasons, but I have pushed to so it
+    will be easy to test the API.
+
 ## Commands
 
 > Laravel Framework version 10.48.25
