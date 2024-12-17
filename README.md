@@ -6,6 +6,8 @@
 -   **Development Environment**: `env`
 -   **Development Database**: `blog_project`
 
+-   **Please Make sure that MySQL is running.**
+
 ## Commands
 
 > Laravel Framework version 10.48.25
@@ -51,3 +53,7 @@
 
     > **Email**: ram@gmail.com  
     > **Password**: password123
+
+### ER Diagram for simple_blog database
+
+![ER Diagram for Portfolio App](er-diagram.png)
